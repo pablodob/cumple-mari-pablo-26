@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Torta de cumpleaños</title>
+  <rect width="64" height="64" rx="15" fill="#cf3344"/>
+  <path d="M11 51h42" stroke="#fff3da" stroke-width="3" stroke-linecap="round"/>
+  <path d="M16 34h32v15H16z" fill="#ffe3b4"/>
+  <path d="M16 41h32v4H16z" fill="#f19a9a"/>
+  <path d="M15 33c0-2 2-4 5-4h24c3 0 5 2 5 4v4c-2 0-2 4-5 4s-3-4-6-4-3 4-6 4-3-4-6-4-3 4-6 4-3-4-5-4z" fill="#fffdfa"/>
+  <path d="M32 29v-9" stroke="#ffe3b4" stroke-width="3" stroke-linecap="round"/>
+  <path d="M32 12c-2 3-4 5-4 7a4 4 0 0 0 8 0c0-2-2-4-4-7z" fill="#ffd37e"/>
+</svg>
